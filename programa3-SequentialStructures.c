@@ -18,7 +18,7 @@
  * Output:
  *   Formato fecha: 07/03/2025
  *
- * Author: Daniel Beltr·n
+ * Author: Daniel Beltr√°n
  * Date: 2025-10-14
  */
 
