@@ -11,7 +11,7 @@
  * The program then calculates and displays both the amount per installment and
  * the total amount to be paid for each option.
  *
- * Author: Daniel Beltr·n
+ * Author: Daniel Beltr√°n
  * Date: 2025-10-14
  */
 
