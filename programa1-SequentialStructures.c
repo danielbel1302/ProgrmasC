@@ -8,7 +8,7 @@
  * Language:    C (ANSI C)
  * Compiler:    GCC / Clang
  *
- * Author:      Daniel Beltr·n
+ * Author:      Daniel Beltr√°n
  * Date:        [2025-10-14]
  ********************************************************************************/
 
