@@ -18,7 +18,7 @@
  * - The two values must be different.
  * - The program uses a simple conditional structure (if-else) to determine the larger number.
  *
- * Author: Daniel Beltr·n
+ * Author: Daniel Beltr√°n
  * Date: 2025-10-14
  */
 
