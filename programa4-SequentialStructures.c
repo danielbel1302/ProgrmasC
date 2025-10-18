@@ -16,7 +16,7 @@
  *   b) El resto de la division por 5 es: 0
  *   c) La septima parte del resultado del punto a) es: 2.86
  *
- * Author: Daniel Beltr·n
+ * Author: Daniel Beltr√°n
  * Date: 2025-10-14
  */
 
