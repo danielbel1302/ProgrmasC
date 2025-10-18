@@ -8,7 +8,7 @@
  *
  * Input:
  * ------
- * - Three floating-point numbers representing temperature values in °C.
+ * - Three floating-point numbers representing temperature values in Â°C.
  *
  * Output:
  * -------
@@ -28,7 +28,7 @@
  * Ingrese el valor de la temperatura #3 (en C): 25.1
  * La temperatura mayor es: 27.80 C.
  *
- * Author: Daniel Beltrán
+ * Author: Daniel BeltrÃ¡n
  * Date: 2025-10-16
  */
 
