@@ -12,7 +12,7 @@
  * @version 1.0
  * @date 2025-10-16
  * @author
- * Daniel Beltr·n
+ * Daniel Beltr√°n
  */
 
 #include <stdio.h>
